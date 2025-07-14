@@ -1,0 +1,66 @@
+# Site settings
+title: "Your Academic Portfolio"
+email: your.email@university.edu
+description: "Academic researcher and educator specializing in [Your Field]"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourusername.github.io" # your GitHub Pages URL
+twitter_username: yourusername
+github_username: yourusername
+linkedin_username: yourusername
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:name/
+  projects:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Your Name"
+  - scope:
+      path: ""
+      type: "publications"
+    values:
+      layout: "publication"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+# Navigation
+header_pages:
+  - about.md
+  - research.md
+  - publications.md
+  - teaching.md
+  - contact.md
+
+# SEO settings
+google_analytics: # Your Google Analytics tracking ID
+author:
+  name: "Your Name"
+  email: "your.email@university.edu"
+  twitter: "yourusername"
+
+# Academic info
+position: "PhD Student / Postdoc / Professor"
+institution: "Your University"
+department: "Department of Your Field"
