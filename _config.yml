@@ -45,13 +45,8 @@ defaults:
     values:
       layout: "project"
 
-# Navigation
-header_pages:
-  - about.md
-  - ventures.md
-  - press.md
-  - speaking.md
-  - contact.md
+# Navigation - Hidden for single page design
+header_pages: []
 
 # SEO settings
 google_analytics: # Your Google Analytics tracking ID
