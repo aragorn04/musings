@@ -1,7 +1,7 @@
 # Site settings
-title: "Your Academic Portfolio"
-email: your.email@university.edu
-description: "Academic researcher and educator specializing in [Your Field]"
+title: "CEO & Entrepreneur"
+email: your.email@startup.com
+description: "Startup founder and tech entrepreneur building innovative solutions"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yourusername.github.io" # your GitHub Pages URL
 twitter_username: yourusername
@@ -48,19 +48,19 @@ defaults:
 # Navigation
 header_pages:
   - about.md
-  - research.md
-  - publications.md
-  - teaching.md
+  - ventures.md
+  - press.md
+  - speaking.md
   - contact.md
 
 # SEO settings
 google_analytics: # Your Google Analytics tracking ID
 author:
   name: "Your Name"
-  email: "your.email@university.edu"
+  email: "your.email@startup.com"
   twitter: "yourusername"
 
 # Academic info
-position: "PhD Student / Postdoc / Professor"
-institution: "Your University"
-department: "Department of Your Field"
+position: "CEO & Founder"
+institution: "Your Startup"
+department: "Tech Entrepreneur"

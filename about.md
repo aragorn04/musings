@@ -1,57 +1,55 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
 # About Me
 
-<img src="/assets/images/profile.jpg" alt="Your Name" style="float: right; margin-left: 20px; width: 300px; border-radius: 10px;">
+## CEO & Founder
 
-I am a [Your Current Position] in the [Department Name] at [University Name]. My research explores [your main research focus], with particular interest in [specific areas].
+I'm a passionate entrepreneur and startup CEO with a vision to [solve specific problem/transform industry]. Currently building [Your Startup Name], where we're developing innovative solutions that [impact/value proposition].
 
-## Education
+## My Journey
 
-**PhD in [Field]** | [University Name] | [Year]  
-*Dissertation: "[Your Dissertation Title]"*  
-*Advisor: [Advisor Name]*
+### Entrepreneurial Background
+- **[Year-Present]**: CEO & Founder, [Your Startup]
+- **[Year-Year]**: [Previous Role], [Previous Company]
+- **[Year-Year]**: [Earlier Role], [Earlier Company]
 
-**Master of Science in [Field]** | [University Name] | [Year]  
-*Thesis: "[Your Thesis Title]"*
+### Education
+- **[Degree]**: [University Name], [Year]
+- **[Degree]**: [University Name], [Year]
 
-**Bachelor of Science in [Field]** | [University Name] | [Year]  
-*Magna Cum Laude, [Honors/Awards]*
+## Achievements & Recognition
 
-## Professional Experience
+### Business Milestones
+- Raised $[Amount] in [Series] funding from [Notable Investors]
+- Grew team from [X] to [Y] employees in [timeframe]
+- Achieved [Key Metric] milestone (users, revenue, etc.)
+- Launched [Number] successful products/features
 
-**[Current Position]** | [Institution] | [Year - Present]
-- Research focus on [area]
-- Teaching courses in [subjects]
-- Supervising [number] graduate students
+### Awards & Recognition
+- **[Year]**: [Award Name] - [Awarding Organization]
+- **[Year]**: Featured in [Publication] "30 Under 30" / "Rising Entrepreneurs"
+- **[Year]**: [Conference] Keynote Speaker
 
-**[Previous Position]** | [Institution] | [Year - Year]
-- [Key responsibilities and achievements]
-- [Notable projects or collaborations]
+## Vision & Mission
 
-## Awards and Honors
+I believe that [your core belief about technology/business/industry]. My mission is to [your mission statement] by building products that [your approach].
 
-- [Award Name] | [Year] | [Awarding Organization]
-- [Fellowship/Grant Name] | [Year] | [Amount/Duration]
-- [Recognition] | [Year] | [Organization]
+### Core Values
+- **Innovation**: Pushing boundaries and challenging the status quo
+- **Impact**: Building solutions that create meaningful change
+- **Team**: Fostering a culture of collaboration and growth
+- **Transparency**: Operating with honesty and openness
 
-## Professional Service
+## Beyond Work
 
-- **Editorial Board**: [Journal Name] ([Year - Present])
-- **Reviewer**: [List of journals you review for]
-- **Conference Organization**: [Conferences you've helped organize]
-- **Professional Memberships**: [Relevant professional societies]
+When I'm not building the next big thing, you can find me [hobbies/interests]. I'm passionate about [personal interests] and believe in [personal philosophy].
 
-## Skills & Expertise
+I also mentor emerging entrepreneurs and actively participate in the startup ecosystem through [activities like angel investing, accelerator programs, etc.].
 
-**Research Methods**: [List your methodological expertise]  
-**Technical Skills**: [Programming languages, software, tools]  
-**Languages**: [Languages you speak and proficiency levels]
+## Let's Connect
 
----
-
-*For more details, please see my [full CV](/assets/cv.pdf) or [contact me](/contact/) directly.*
+I'm always interested in connecting with fellow entrepreneurs, potential partners, and innovative thinkers. Whether you're looking to collaborate, seeking advice, or just want to chat about the future of [your industry], feel free to reach out.
