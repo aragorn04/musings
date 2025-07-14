@@ -7,6 +7,8 @@ title: Home
 
 I'm a startup CEO and founder building innovative solutions in [your industry]. Currently leading [Your Startup] to solve [problem you're solving] through technology and strategic vision.
 
+Previously worked at [Previous Company] where I learned [key learnings]. Now focused on [current mission] and helping other entrepreneurs navigate the challenges of building companies.
+
 <div class="section">
 
 ## Posts and Essays
