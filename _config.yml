@@ -1,7 +1,7 @@
 # Site settings
-title: "CEO & Entrepreneur"
-email: your.email@startup.com
-description: "Startup founder and tech entrepreneur building innovative solutions"
+title: "Bhanu Pratap Singh Tanwar"
+email: bhanupratap@frnd.live
+description: "CEO & Founder of FRND, revolutionizing social interaction through technology"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yourusername.github.io" # your GitHub Pages URL
 twitter_username: yourusername
@@ -51,11 +51,11 @@ header_pages: []
 # SEO settings
 google_analytics: # Your Google Analytics tracking ID
 author:
-  name: "Your Name"
-  email: "your.email@startup.com"
+  name: "Bhanu Pratap Singh Tanwar"
+  email: "bhanupratap@frnd.live"
   twitter: "yourusername"
 
 # Academic info
 position: "CEO & Founder"
-institution: "Your Startup"
-department: "Tech Entrepreneur"
+institution: "FRND"
+department: "Social Technology"

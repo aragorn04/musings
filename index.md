@@ -3,22 +3,22 @@ layout: default
 title: Home
 ---
 
-# [Your Name]
+# Bhanu Pratap Singh Tanwar
 
-I'm a startup CEO and founder building innovative solutions in [your industry]. Currently leading [Your Startup] to solve [problem you're solving] through technology and strategic vision.
+I'm an early-stage founder building a strong product team for the next billion users. Currently leading FRND to solve social interaction challenges through innovative technology.
 
-Previously worked at [Previous Company] where I learned [key learnings]. Now focused on [current mission] and helping other entrepreneurs navigate the challenges of building companies.
+IIT Kanpur Chemical Engineering graduate (JEE AIR 1485, KVPY Scholar AIR 146) turned entrepreneur. Previously worked on various technical projects including mechanical design and research paper search systems. Now focused on building meaningful social experiences at scale.
 
 <div class="section">
 
 ## Posts and Essays
 
 <ul class="entry-list">
-<li><a href="#" class="entry-title">The Future of [Your Industry]: Why Now is the Time for Innovation</a><span class="entry-date">Dec 2024</span></li>
-<li><a href="#" class="entry-title">From Zero to Series A: Lessons from Building [Your Startup]</a><span class="entry-date">Nov 2024</span></li>
-<li><a href="#" class="entry-title">How to Build High-Performance Teams in Early-Stage Startups</a><span class="entry-date">Oct 2024</span></li>
-<li><a href="#" class="entry-title">The Art of Product-Market Fit: A Founder's Perspective</a><span class="entry-date">Sep 2024</span></li>
-<li><a href="#" class="entry-title">Navigating Uncertainty: Decision Making in Fast-Growing Companies</a><span class="entry-date">Aug 2024</span></li>
+<li><a href="#" class="entry-title">Building for the Next Billion Users: Lessons from FRND</a><span class="entry-date">Dec 2024</span></li>
+<li><a href="#" class="entry-title">From IIT Kanpur to Startup Founder: The Journey</a><span class="entry-date">Nov 2024</span></li>
+<li><a href="#" class="entry-title">Product-Market Fit in Social Applications: What We've Learned</a><span class="entry-date">Oct 2024</span></li>
+<li><a href="#" class="entry-title">The Art of Building Strong Product Teams</a><span class="entry-date">Sep 2024</span></li>
+<li><a href="#" class="entry-title">Why India Needs Better Social Interaction Platforms</a><span class="entry-date">Aug 2024</span></li>
 </ul>
 
 </div>
@@ -28,11 +28,11 @@ Previously worked at [Previous Company] where I learned [key learnings]. Now foc
 ## Interviews and Talks
 
 <ul class="entry-list">
-<li><a href="#" class="entry-title">TechCrunch Disrupt: "Building the Next Generation of [Industry] Solutions"</a><span class="entry-date">2024</span></li>
-<li><a href="#" class="entry-title">Forbes: "Rising Entrepreneurs to Watch"</a><span class="entry-date">2024</span></li>
-<li><a href="#" class="entry-title">The Startup Show Podcast: "From Idea to Scale"</a><span class="entry-date">2024</span></li>
-<li><a href="#" class="entry-title">Stanford Entrepreneurship Week: "Lessons from the Trenches"</a><span class="entry-date">2023</span></li>
-<li><a href="#" class="entry-title">VentureBeat: "The Future of [Your Industry]"</a><span class="entry-date">2023</span></li>
+<li><a href="#" class="entry-title">TechCrunch: "Building Social Platforms for India's Next Billion Users"</a><span class="entry-date">2024</span></li>
+<li><a href="#" class="entry-title">IIT Kanpur Alumni Talk: "From Chemical Engineering to Tech Entrepreneurship"</a><span class="entry-date">2024</span></li>
+<li><a href="#" class="entry-title">Startup Podcast: "FRND and the Future of Social Interaction"</a><span class="entry-date">2024</span></li>
+<li><a href="#" class="entry-title">Bengaluru Startup Meetup: "Building Products for Scale"</a><span class="entry-date">2023</span></li>
+<li><a href="#" class="entry-title">TechNews: "Young Founders Solving Real Problems"</a><span class="entry-date">2023</span></li>
 </ul>
 
 </div>
@@ -42,10 +42,10 @@ Previously worked at [Previous Company] where I learned [key learnings]. Now foc
 ## Contact
 
 <div class="contact-links">
-<a href="mailto:[your.email@startup.com]">Email</a>
-<a href="https://twitter.com/[yourusername]">Twitter</a>
-<a href="https://linkedin.com/in/[yourusername]">LinkedIn</a>
-<a href="https://github.com/[yourusername]">GitHub</a>
+<a href="mailto:bhanupratap@frnd.live">Email</a>
+<a href="https://x.com/_bpst">Twitter</a>
+<a href="https://www.linkedin.com/in/bpst13/">LinkedIn</a>
+<a href="https://github.com/aragorn04">GitHub</a>
 </div>
 
 </div>
@@ -56,15 +56,15 @@ Previously worked at [Previous Company] where I learned [key learnings]. Now foc
 
 <div class="subsection">
 
-### Ventures
-- **[Previous Company Name]** (2020-2023) - [Brief description of company and your role]
-- **[Another Venture]** (2018-2020) - [Brief description]
-- **[Early Project]** (2016-2018) - [Brief description]
+### Education & Early Work
+- **IIT Kanpur** (2013-2017) - Chemical Engineering, JEE AIR 1485, KVPY Scholar AIR 146
+- **Research Projects** - Mechanical Flower design (2nd prize among 400 students), Research Paper Library with search functionality
+- **Student Guide** at IIT Kanpur (2013-2014) - Mentoring incoming students
 
-### Investments & Advisory
-- Angel investor in 15+ early-stage startups
-- Advisor to [Accelerator/Program Name]
-- Mentor at [University/Program Name]
+### Current Focus
+- **FRND** (2022-Present) - Building social interaction platform for next billion users
+- **Product Leadership** - Developing strong product teams and scalable solutions
+- **Mentoring** - Helping early-stage founders with product strategy
 
 </div>
 
